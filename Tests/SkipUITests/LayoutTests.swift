@@ -396,7 +396,7 @@ final class LayoutTests: XCSnapshotTestCase {
         00 00 00 00 00 00 00 00 00
         00 00 00 00 00 00 00 00 00
         53 92 92 92 92 92 92 76 00
-        8F F6 F6 FF FF F6 F6 C9 00
+        82 DE DE F4 FC DE DE B7 00
         00 00 00 A8 E5 00 00 00 00
         00 00 00 A8 E5 00 00 00 00
         00 00 00 A8 E5 00 00 00 00
